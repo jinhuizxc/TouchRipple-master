@@ -15,6 +15,9 @@ import net.qiujuer.genius.ui.drawable.TouchEffectDrawable;
 import net.qiujuer.genius.ui.drawable.effect.EffectFactory;
 import net.qiujuer.genius.ui.widget.Button;
 
+/**
+ * 按钮涟漪效果
+ */
 public class DemoActivity extends AppCompatActivity {
 
     @Override
